@@ -1,0 +1,23 @@
+#question{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#questions {
+    margin : 5px;
+}
+
+main a{
+    color: white !important;
+}
+
+.row{
+    margin: 0px !important;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
